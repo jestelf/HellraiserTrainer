@@ -1,4 +1,4 @@
-﻿import ctypes as C
+import ctypes as C
 from ctypes import wintypes as W
 import struct, time, threading, json, sys, pathlib, math, os
 import ue as compatibility
